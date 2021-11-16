@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mba049/code/Lespa-R/TaxiFareModel/mlruns/1/d115e5502ce0487a85816e05ad55d33f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d115e5502ce0487a85816e05ad55d33f
+run_uuid: d115e5502ce0487a85816e05ad55d33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637075727730
+status: 1
+tags: []
+user_id: unknown
